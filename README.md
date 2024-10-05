@@ -172,7 +172,7 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
 4. Push your branch to your fork.
-5. Create a pull request detailing your changes.
+5. Create a pull request detailing your changes. 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
