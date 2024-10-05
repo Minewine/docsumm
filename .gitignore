@@ -19,3 +19,4 @@ __pycache__/
 *.pdf
 *.docx
 *.db
+doclib/*
