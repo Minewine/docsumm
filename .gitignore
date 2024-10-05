@@ -15,7 +15,6 @@ __pycache__/
 
 # Ignore other files you don't want in the repo
 *.env
-*.txt
 *.csv
 *.pdf
 *.docx
