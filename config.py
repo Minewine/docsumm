@@ -42,4 +42,4 @@ DEBUG = os.environ.get('DEBUG', 'False').lower() == 'true'
 # Ensure required directories exist
 os.makedirs(INPUT_DIR, exist_ok=True)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs(LOG_FILE.parent, exist_ok=True)
+os.makedirs(LOG_FILE.parent, exist_ok=True) 
