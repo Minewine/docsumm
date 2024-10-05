@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore other files you don't want in the repo
+*.env
+*.txt
+*.csv
+*.pdf
+*.docx
+*.db
