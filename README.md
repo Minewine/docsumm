@@ -55,6 +55,16 @@ python generate_summary_title_from_txt.py <path_to_your_document>
 
 You can replace `<path_to_your_document>` with the path to the document you want to summarize. The tool will process the document and output a summary along with key points.
 
+
+Alternatively, you can use the Streamlit UI by executing the following command in your terminal:
+
+```bash
+streamlit run <path_to_frontend_script>
+```
+
+Replace `<path_to_frontend_script>` with the path to the `frontend_doc_query.py` file in your project directory.
+
+
 ## Directory Structure
 Here's a brief overview of the project structure:
 
