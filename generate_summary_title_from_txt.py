@@ -7,7 +7,7 @@ from langchain_community.chat_models import ChatOllama
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.document_loaders import TextLoader
-from langchain_core.runnables import RunnableSequence
+from langchain_core.runnables import RunnableSequence 
 
 import config
 

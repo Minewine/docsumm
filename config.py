@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent  # Assuming config.py is now i
 # LLM Configuration
 LLM_MODEL = os.environ.get('LLM_MODEL', 'gemma2:2b')
 LLM_TEMPERATURE = float(os.environ.get('LLM_TEMPERATURE', 0))
-
+ 
 # File Processing
 MAX_CONCURRENT_FILES = int(os.environ.get('MAX_CONCURRENT_FILES', 5))
 DEFAULT_ENCODING = 'utf-8'
